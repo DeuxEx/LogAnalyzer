@@ -9,9 +9,11 @@ GUI driven skills analyzer and screenshot of active window when globaling.
 Put both files (.exe and .ini) in C:\LogAnalyzer folder (if you dont have one you must create it)
 
 In this folder subfolders (with current date/time) are created when everything is filled out and you press start.
+
 In the subfolder directories files are exported and screenshots are created.
 
 Exported file (LogAnalyzer_globals.txt) contains all globals.
+
 Exported file (skillsoutfile.txt) contains all skills gotten during the session.
 
 --------------------------------------
