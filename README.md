@@ -1,10 +1,7 @@
 # LogAnalyzer
 LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
 
-
-
-LogAnalyzer by Deux Pelleman Ex
-version 1.0.0.26
+Version 1.0.0.26
 --------------------------------------
 
 GUI driven skills analyzer and screenshot of active window when globaling.
@@ -16,6 +13,7 @@ In the subfolder directories files are exported and screenshots are created.
 
 Exported file (LogAnalyzer_globals.txt) contains all globals.
 Exported file (skillsoutfile.txt) contains all skills gotten during the session.
+
 --------------------------------------
 
 
