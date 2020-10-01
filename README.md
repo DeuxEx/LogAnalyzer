@@ -18,11 +18,14 @@ Exported file (skillsoutfile.txt) contains all skills gotten during the session.
 
 
 The filtered logview:
+
 Alot of keywords are removed from this field in the GUI, so the most importants are kept and showed here.
 
 
 The skills field:
+
 All skills which are increasing are captured and displayed in a sorted list in one field of the GUI.
+
 Every 20th skill increase this sorted list is exported to an file called skillsoutfile.txt.
 
 
