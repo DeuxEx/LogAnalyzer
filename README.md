@@ -37,7 +37,7 @@ Every 20th skill increase this sorted list is exported to an file called skillso
 
 Screenshots:
 
-Are taken when avatar and team name are globalling.
+Are taken when avatar and/or team name are globalling.
 
 Names on the files include the item/mob and the value.
 
@@ -67,9 +67,7 @@ When Followmode are given in the inifile or written in the GUI, the loganalyzer 
 
 Followmode can ie be; [Society] 
 
-If you want to have all society activity in the field.
-
-Or any kind of mobs or crafting or mining texts.
+If you want to have all society activity in the field, or any kind of mobs or crafting or mining texts.
 
 This feature is somewhere buggy and if you want to change the string, close down the GUI and restart it before running.
 
@@ -81,13 +79,6 @@ In this field rare items are displayed, tier increasing items and ATHs.
 
 --------------------------------------
 
-Bugs:
-
-*Sometimes the code crashed and that can happen if you stopped and restarted via the buttons.
-
-Best way to solve this is to stop the cmd/powershell process from where you started the Loganalyzer, and have a fresh restart on it.
-
---------------------------------------
 
 Details:
 
