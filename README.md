@@ -12,9 +12,11 @@ In this folder subfolders (with current date/time) are created when everything i
 
 In the subfolder directories files are exported and screenshots are created.
 
-Exported file (LogAnalyzer_globals.txt) contains all globals.
+LogAnalyzer_globals.txt - contains all globals.
 
-Exported file (skillsoutfile.txt) contains all skills gotten during the session.
+skillsoutfile.txt - contains all skills gotten during the session.
+
+LogAnalyzer.Error.Log - contains all errors during the run.
 
 --------------------------------------
 
