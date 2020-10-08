@@ -1,7 +1,7 @@
 # LogAnalyzer
 LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
 
-Version 1.0.0.27
+Version 1.0.0.28
 --------------------------------------
 
 GUI driven skills analyzer and screenshot of active window when globaling.
