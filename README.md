@@ -89,7 +89,7 @@ In streamlabs you configure these files and place them on the screen and when yo
 When a global or a follow later is being hit in LogAnalyzer these files (if found) are renamed for 10 seconds and then renamed back again.
 
 
-
+--------------------------------------
 
 
 
