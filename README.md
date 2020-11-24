@@ -79,6 +79,19 @@ In this field rare items are displayed, tier increasing items and ATHs.
 --------------------------------------
 
 
+When you or the team global, a file is renamed in the LogAnalyzer folder, this file can be linked to while streaming so it will show an animated gif.
+Also if you are using following function in LogAnalyzer, and if the followstring is met another file is renamed in the LogAnalyzer folder.
+These two files are hardcoded atm, and the names are:
+sherlock_gnomes_spins.gif for the global
+follow_star.gif for the follow.
+
+In streamlabs you configure these files and place them on the screen and when you are ready, you rename the links in streamlabs to point to these files but add ".inactive" in the end of the filenames so they dont show up.
+When a global or a follow later is being hit in LogAnalyzer these files (if found) are renamed for 10 seconds and then renamed back again.
+
+
+
+
+
 Details:
 
 All code is done in C# (Visual Studio 2019)
