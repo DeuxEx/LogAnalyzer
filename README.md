@@ -92,6 +92,7 @@ When a global or a follow later is being hit in LogAnalyzer these files (if foun
 
 
 
+
 Details:
 
 All code is done in C# (Visual Studio 2019)
