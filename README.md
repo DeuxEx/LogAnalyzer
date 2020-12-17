@@ -5,9 +5,9 @@ LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
 
 GUI driven skills analyzer and screenshot of active window when globaling.
 
-Ths msi install created c:\Loganalyzer and puts the inifile and the gifs in there.
+Ths msi installer creates c:\Loganalyzer and puts the inifile and the gifs in there.
 
-In this folder subfolders (with current date/time) are created when everything is filled out and you press start.
+In this folder, subfolders (with current date/time) are created when everything is filled out and you press start.
 
 In the subfolder directories files are exported and screenshots are created.
 
