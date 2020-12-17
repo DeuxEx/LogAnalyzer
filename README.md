@@ -5,7 +5,7 @@ LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
 
 GUI driven skills analyzer and screenshot of active window when globaling.
 
-Put both files (.exe and .ini) in C:\LogAnalyzer folder (if you dont have one you must create it)
+Ths msi install created c:\Loganalyzer and puts the inifile and the gifs in there.
 
 In this folder subfolders (with current date/time) are created when everything is filled out and you press start.
 
@@ -46,7 +46,7 @@ The screenshot is taken with a 1200 millisec delay, i found this value to be wor
 
 The inifile:
 
-An inifile are read during the execution start of GUI and there are currently 4 values read from this file:
+An inifile are read when you click the "Read inifile" button, and there are currently 4 values read from this file:
 
 The active lines starts with [1],[2],[3] of [4], watch how I have typed in the examplefile.
 
