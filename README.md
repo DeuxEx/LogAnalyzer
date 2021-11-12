@@ -2,7 +2,7 @@
 LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
 
 Download it here:
-https://github.com/DeuxEx/LogAnalyzer/releases/tag/v1.0.0.71
+https://github.com/DeuxEx/LogAnalyzer/releases/tag/v1.0.0.73
 
 --------------------------------------
 
@@ -14,11 +14,6 @@ In this folder, subfolders (with current date/time) are created when everything 
 
 In the subfolder directories files are exported and screenshots are created.
 
-LogAnalyzer_globals.txt - contains all globals.
-
-skillsoutfile.txt - contains all skills gotten during the session.
-
-LogAnalyzer.Error.Log - contains all errors during the run.
 
 --------------------------------------
 
@@ -33,7 +28,6 @@ The skills field:
 
 All skills which are increasing are captured and displayed in a sorted list in one field of the GUI.
 
-Every 20th skill increase this sorted list is exported to an file called skillsoutfile.txt.
 
 --------------------------------------
 
@@ -70,8 +64,6 @@ When Followmode are given in the inifile or written in the GUI, the loganalyzer 
 Followmode can ie be; [Society] 
 
 If you want to have all society activity in the field, or any kind of mobs or crafting or mining texts.
-
-This feature is somewhere buggy and if you want to change the string, close down the GUI and restart it before running.
 
 --------------------------------------
 
@@ -114,7 +106,7 @@ Dont ask about future improvements or features.
 
 The code is changed and improved on a regular basis.
 
-Send thx or bug-reports to; deux.ex@gpromm.com
+Send thx, bug-reports or paypal money to; deux.ex@gpromm.com
 
 --------------------------------------
 
