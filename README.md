@@ -4,6 +4,9 @@ LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
 Download it here:
 https://github.com/DeuxEx/LogAnalyzer/releases/tag/v1.0.0.73
 
+Project development info:
+https://github.com/DeuxEx/LogAnalyzer/projects/1
+
 --------------------------------------
 
 GUI driven skills analyzer and screenshot of active window when globaling.
