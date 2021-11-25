@@ -4,7 +4,7 @@ LogAnalyzer (for Entropia Universe logfile) (MMO RCE)
 Version 1.0.0.76
 
 Download it here:
-https://github.com/DeuxEx/LogAnalyzer/releases/tag/v1.0.0.73
+https://github.com/DeuxEx/LogAnalyzer/releases/tag/v1.0.0.76
 
 Project development info:
 https://github.com/DeuxEx/LogAnalyzer/projects/1
